@@ -1,0 +1,1 @@
+define(["exports"],function(e){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var t="<%= version %>";e["default"]=t});
